@@ -1,5 +1,4 @@
 #!/bin/bash 
-
 # script to find prime factors
 echo "enter an integer:"
 read input
