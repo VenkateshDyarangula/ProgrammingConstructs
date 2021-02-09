@@ -13,7 +13,7 @@ function generateRollingDieNumbers (){
 }
 #Storingin Dictionary
 storeInDictionary (){
-  kay=$1
+  key=$1
   DiesCount[$key]=$(( ${DiesCount[$key]} + 1 ));
 }
  
